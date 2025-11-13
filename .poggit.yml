@@ -5,5 +5,5 @@ branches:
 projects:
   VanillaComposter:
     path: ""
-    icon: icon.webp
+    icon: icon.png
 ...
