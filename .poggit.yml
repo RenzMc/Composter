@@ -3,7 +3,7 @@ build-by-default: true
 branches:
 - main
 projects:
-  Composter:
+  VanillaComposter:
     path: ""
     icon: icon.webp
 ...
